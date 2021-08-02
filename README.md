@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ASP.net
-- 🌱 I’m currently learning python, typescript and asp.net
+- 🌱 I’m currently learning typescript and asp.net
  <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
