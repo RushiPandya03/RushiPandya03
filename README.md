@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on ASP.net
-- 🌱 I’m currently learning typescript and java
+- 🔭 I’m currently working on front-end technologies
+- 🌱 I’m currently learning typescript/javascript
  <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
